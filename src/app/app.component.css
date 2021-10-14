@@ -1,0 +1,9 @@
+.done {
+  background-color: aquamarine;
+  border: 1px solid aquamarine !important;
+}
+
+.not-done {
+  background-color: #87CEFF;
+  border: 1px solid #87CEFF !important;
+}
